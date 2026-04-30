@@ -1,0 +1,6 @@
+{
+  "name": "Smart Inventory Manager (SIM)",
+  "description": "Aplikasi manajemen inventory barang profesional untuk UMKM dengan fitur pencatatan stok real-time, laporan transaksi, dan dashboard statistik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
